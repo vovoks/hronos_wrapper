@@ -11,7 +11,3 @@ def get_refresh_token_url():
 
 def get_schedule_url():
     return BASE_API_URL + SCHEDULE_API
-
-
-def get_schedule_load_url():
-    return BASE_API_URL + SCHEDULE_API
